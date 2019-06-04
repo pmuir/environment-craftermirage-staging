@@ -1,37 +1,4 @@
 dependencies:
-- name: bdd-spring-1559574565
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559574804
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559575483
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559578765
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559579438
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559579897
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559580180
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559581186
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559582214
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559582700
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: bdd-spring-1559644282
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
